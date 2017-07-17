@@ -85,7 +85,7 @@ $$
 I = \int\rho R^{2} dV
 $$
 
-## Programando em 
+## Programando em R
 
 ```
 if(cond){expr}
