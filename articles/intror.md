@@ -1,15 +1,15 @@
-# Uma breve introdução ao R
+# Uma breve introduÃ§Ã£o ao R
 
-**Mauro Campos**. *Departamento de Estatística, UFES*.
+**Mauro Campos**. *Departamento de EstatÃ­stica, UFES*.
 
-R é um software livre que proporciona um ambiente para análise de dados. R compila e roda em diversas plataformas: Linux, Windows e MacOS. Para download R visite a página web do [Projeto R](https://www.r-project.org/) e escolha um CRAN mirror de sua preferência. Conheça também o [RStudio](https://www.rstudio.com/) que é um IDE (Integrated Development Environment) para R.
+R Ã© um software livre que proporciona um ambiente para anÃ¡lise de dados. R compila e roda em diversas plataformas: Linux, Windows e MacOS. Para download R visite a pÃ¡gina web do [Projeto R](https://www.r-project.org/) e escolha um CRAN mirror de sua preferÃªncia. ConheÃ§a tambÃ©m o [RStudio](https://www.rstudio.com/) que Ã© um IDE (Integrated Development Environment) para R.
 
-Este artigo proporciona uma breve introdução ao R para alunos matriculados em disciplinas tais como: **Estatística Básica** ou **Probabilidade e Estatística**.
+Este artigo proporciona uma breve introduÃ§Ã£o ao R para alunos matriculados em disciplinas tais como: **EstatÃ­stica BÃ¡sica** ou **Probabilidade e EstatÃ­stica**.
 
-## Operadores aritméticos
+## Operadores aritmÃ©ticos
 
 ```
-> # Comentário
+> # ComentÃ¡rio
 > 2+3 
 [1] 5
 > 2-3
@@ -22,7 +22,7 @@ Este artigo proporciona uma breve introdução ao R para alunos matriculados em di
 [1] 8
 ```
 
-## Atribução
+## AtribuÃ§Ã£o
 
 ```
 > pi
@@ -37,7 +37,7 @@ Este artigo proporciona uma breve introdução ao R para alunos matriculados em di
 [1] 4.506628
 ```
 
-## Operadores lógicos
+## Operadores lÃ³gicos
 
 ```
 > y <- (3==3)|(5>=7) # operador OR 
@@ -50,7 +50,7 @@ Este artigo proporciona uma breve introdução ao R para alunos matriculados em di
 [1] TRUE
 ```
 
-## Funções matemáticas
+## FunÃ§Ãµes matemÃ¡ticas
 
 ```
 > abs(-3)
@@ -78,14 +78,14 @@ Este artigo proporciona uma breve introdução ao R para alunos matriculados em di
 > 25%%3 # retorna o resto de 25/3 (25 mod 3)
 [1] 1
 ```
-## Equações e equações em bloco
+## EquaÃ§Ãµes e equaÃ§Ãµes em bloco
 
 An inline math equation can be written as: $\omega = d\phi / dt=A\times\pi^{3}$. An equation block is given by:
 $$
 I = \int\rho R^{2} dV
 $$
 
-## Programando em R
+## Programando em 
 
 ```
 if(cond){expr}
@@ -107,9 +107,9 @@ repeat{expr;... if(cond){break}}
 [1] 5
 ```
 
-Pessoal, espero que ajude. Visite minha [página](http://www.maurocampos.com/).
+Pessoal, espero que ajude. Visite minha [pÃ¡gina](http://www.maurocampos.com/).
 
-> <p align="justify">UFES - Universidade Federal do Espírito Santo, Centro de Ciências Exatas, Departamento de Estatística. Av. Fernando Ferrari 514, 29075-910, Vitória ES, Brasil.</p>
+> <p align="justify">UFES - Universidade Federal do EspÃ­rito Santo, Centro de CiÃªncias Exatas, Departamento de EstatÃ­stica. Av. Fernando Ferrari 514, 29075-910, VitÃ³ria ES, Brasil.</p>
 
 
 
