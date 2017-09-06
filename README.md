@@ -14,22 +14,17 @@ Bem vindo a minha página web no GitHub <a id="top"></a>
 Eu sou Professor do Departamento de Estatística da Universidade Federal do Espírito Santo (UFES, Vitória ES), Bacharel e Mestre em Física pela UFES e Doutor em Ciência da Computação também pela UFES. Tenho experiência na área de inteligência computacional (computational intelligence) com ênfase em computação natural (natural computing) e aprendizado de máquina (machine learning), atuando principalmente nos seguintes temas:
 </p>
 
-<p align="justify">
 - Otimização via metaheurísticas (otimização evolutiva e por enxame de partículas).
 - Análise de dados via computação neural e métodos kernel (análise de regressão e classificação).
-</p>
 
 ## [Contato](#top) <a id="sec-2"></a>
 
-<p align="justify">
 - Departamento de Estatística. UFES - Universidade Federal do Espírito Santo
 - Av. Fernando Ferrari 514, CEP 29075-910, Vitória, Espírito Santo ES.
 - <mauro.campos@ufes.br>
-</p>
 
 ## [Ensino](#top) <a id="sec-3"></a>
 
-<p align="justify">
 - Estatística Básica
 - [Introdução ao R][pwir]
 - Probabilidade
@@ -38,11 +33,9 @@ Eu sou Professor do Departamento de Estatística da Universidade Federal do Esp�
 - Inferência Estatística
 - Análise de Regressão
 - [Estatística Computacional][pwec]
-</p>
 
 ## [Pesquisa](#top) <a id="sec-4"></a>
 
-<p align="justify">
 1. [P] T. Reis, AC. Neto, M. Campos. Gaussian basis sets for atomic and molecular calculations obtained from stochastic optimization. Computational and Theoretical Chemistry, v. 1099, p. 133:139, 2017.
 2. [P] M. Campos, R. Krohling. Entropy-based bare bones particle swarm for dynamic constrained optimization. Knowledge-Based Systems, v. 97, p. 203:223, 2016.
 3. [P] R. Krohling, R. Lourenzutti, M. Campos. Ranking and comparing evolutionary algorithms with Hellinger-TOPSIS. Applied Soft Computing, v. 37, p. 217:226, 2015.
@@ -58,7 +51,6 @@ Eu sou Professor do Departamento de Estatística da Universidade Federal do Esp�
 13. [P] R. Krohling, M. Campos, P. Borges. Bare bones particle swarm applied to parameter estimation of mixed weibull distribution. In: Soft Computing in Industrial Applications: Algorithms, Integration, and Success Stories (Series: Advances in Intelligent and Soft Computing). Berlin Heidelberg: Springer Verlag, 2010, v. 75, p. 53:60.
 14. [P] M. Campos, P. Borges, R. Krohling. Particle swarm optimization for inference procedures in the generalized gamma family based on censored data. In: Applications of Soft Computing: From Theory to Praxis (Series: Advances in Intelligent and Soft Computing). Berlin Heidelberg: Springer Verlag, 2009, v. 58, p. 411:422.
 15. [L] M. Campos. Introdução à Probabilidade e Estatística. Vitória: Universidade Federal do Espírito Santo, Núcleo de Educação Aberta e a Distância, 2009, v. 1., 117 p.
-</p>
 
 [pwir]: http://www.maurocampos.com/cursos/intror/intror.html "Introdução ao R"
 [pwec]: http://www.maurocampos.com/cursos/estcomp/index.html "Est. Computacional"
