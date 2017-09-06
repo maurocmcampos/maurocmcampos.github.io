@@ -2,7 +2,7 @@
 Bem vindo a minha página web no GitHub
 </p>
 
-# Table of Contents
+# Conteúdo
   * [Sobre mim](#sec-1)
   * [Contato](#sec-2)
   * [Ensino](#sec-3)
