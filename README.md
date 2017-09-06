@@ -19,8 +19,8 @@ Eu sou Professor do Departamento de Estatística da Universidade Federal do Esp�
 
 ## Contato <a id="sec-2"></a>
 
-- Departamento de Estatística | UFES - Universidade Federal do Espírito Santo
-- Av. Fernando Ferrari 514, CEP 29075-910, Vitória, Espírito Santo ES | Tel.: (27) 4009-2481
+- Departamento de Estatística. UFES - Universidade Federal do Espírito Santo
+- Av. Fernando Ferrari 514, CEP 29075-910, Vitória, Espírito Santo ES.
 - <mauro.campos@ufes.br>
 
 ## Ensino <a id="sec-3"></a>
