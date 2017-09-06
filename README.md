@@ -44,7 +44,7 @@ Eu sou Professor do Departamento de Estat√≠stica da Universidade Federal do Esp√
 6. [C] M. Campos, R. Krohling. Bare bones particle swarm with scale mixtures of Gaussians for dynamic constrained optimization. IEEE Congress on Evolutionary Computation, p. 202:209, China, 2014.
 7. [C] M. Campos, R. Krohling. Hierarchical bare bones particle swarm for solving constrained optimization problems. IEEE Congress on Evolutionary Computation, p. 805:812, Mexico, 2013.
 8. [C] F. Fajardo, M. Campos. On robust estimation of the spectral density function in stationary process using support vector regression. 34o Meeting of the Brazilian Econometric Society, PE Brazil, 2012.
-9 .[P] E. Mendel, R. Krohling, M. Campos. Swarm algorithms with chaotic jumps applied to noisy optimization problems. Information Sciences, v. 181, p. 4494:4514, 2011.
+9. [P] E. Mendel, R. Krohling, M. Campos. Swarm algorithms with chaotic jumps applied to noisy optimization problems. Information Sciences, v. 181, p. 4494:4514, 2011.
 10. [P] R. Krohling, E. Mendel, M. Campos. Swarm algorithms with chaotic jumps for optimization of multimodal functions. Engineering Optimization, v. 43, p. 1243:1261, 2011.
 11. [P] C. Barros, P. Oliveira, F. Jorge, AC. Neto, M. Campos. Gaussian basis set of double zeta quality for atoms Rb through Xe: application in non-relativistic and relativistic calculations of atomic and molecular properties. Molecular Physics, v. 108, No. 15, p. 1965:1972, 2010.
 12. [P] P. Oliveira, C. Barros, F. Jorge, AC. Neto, M. Campos. Augmented Gaussian basis set of double zeta valence quality for the atoms Rb and Y-Xe: application in DFT calculations of molecular electric properties. Journal of Molecular Structure: Theochem, v. 948, p. 43:46, 2010.
