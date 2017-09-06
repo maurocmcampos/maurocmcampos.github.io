@@ -9,13 +9,33 @@ Bem vindo a minha página web no GitHub
   * [Pesquisa](#sec-4)
   
 ## Sobre mim <a id="sec-1"></a>
-Content for section 1.
+
+<p align="justify">
+Eu sou Professor do Departamento de Estatística da Universidade Federal do Espírito Santo (UFES, Vitória ES), Bacharel e Mestre em Física pela UFES e Doutor em Ciência da Computação também pela UFES. Tenho experiência na área de inteligência computacional (computational intelligence) com ênfase em computação natural (natural computing) e aprendizado de máquina (machine learning), atuando principalmente nos seguintes temas:
+</p>
+
+- Otimização via metaheurísticas (otimização evolutiva e por enxame de partículas).
+- Análise de dados via computação neural e métodos kernel (análise de regressão e classificação).
 
 ## Contato <a id="sec-2"></a>
-Content for section 2.
+
+- Departamento de Estatística | UFES - Universidade Federal do Espírito Santo
+- Av. Fernando Ferrari 514, CEP 29075-910, Vitória, Espírito Santo ES | Tel.: (27) 4009-2481
+- <mauro.campos@ufes.br>
 
 ## Ensino <a id="sec-3"></a>
-Content for section 3.
+
+- Estatística Básica
+- [Introdução ao R][pwir]
+- Probabilidade
+- Otimização
+- Processos Estocásticos
+- Inferência Estatística
+- Análise de Regressão
+- [Estatística Computacional][pwec]
 
 ## Pesquisa <a id="sec-4"></a>
 Content for section 4.
+
+[pwir]: http://www.maurocampos.com/cursos/intror/intror.html "Introdução ao R"
+[pwec]: http://www.maurocampos.com/cursos/estcomp/index.html "Est. Computacional"
