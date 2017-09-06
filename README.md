@@ -1,5 +1,3 @@
-# Mauro Campos 
-
 <p align="justify">
 Bem vindo a minha página web no GitHub
 </p>
