@@ -35,7 +35,11 @@ Eu sou Professor do Departamento de Estatística da Universidade Federal do Esp�
 - [Estatística Computacional][pwec]
 
 ## Pesquisa <a id="sec-4"></a>
-Content for section 4.
+|n|c|Artigo|
+|-|-|------|
+|15|P| T. Reis, AC. Neto, M. Campos. Gaussian basis sets for atomic and molecular calculations obtained from stochastic optimization. Computational and Theoretical Chemistry, v. 1099, p. 133:139, 2017|
+|14|P| M. Campos, R. Krohling. Entropy-based bare bones particle swarm for dynamic constrained optimization. Knowledge-Based Systems, v. 97, p. 203:223, 2016|
+
 
 [pwir]: http://www.maurocampos.com/cursos/intror/intror.html "Introdução ao R"
 [pwec]: http://www.maurocampos.com/cursos/estcomp/index.html "Est. Computacional"
