@@ -34,7 +34,7 @@ Eu sou Professor do Departamento de Estatística da Universidade Federal do Esp�
 - Análise de Regressão
 - [Estatística Computacional][pwec]
 
-## Pesquisa <a id="sec-4"></a> (#cont)
+## [Pesquisa](#cont) <a id="sec-4"></a>
 
 1. [P] T. Reis, AC. Neto, M. Campos. Gaussian basis sets for atomic and molecular calculations obtained from stochastic optimization. Computational and Theoretical Chemistry, v. 1099, p. 133:139, 2017.
 2. [P] M. Campos, R. Krohling. Entropy-based bare bones particle swarm for dynamic constrained optimization. Knowledge-Based Systems, v. 97, p. 203:223, 2016.
