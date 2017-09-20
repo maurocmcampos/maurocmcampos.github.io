@@ -25,13 +25,13 @@ Eu sou Professor do Departamento de Estatística da Universidade Federal do Esp�
 
 ## [Ensino](#top) <a id="sec-3"></a>
 
-- Estatística Básica
-- [Introdução ao R][pwir]
-- Probabilidade
 - Otimização
-- Processos Estocásticos
+- Probabilidade
+- [Introdução ao R][pwir]
+- Estatística Básica
 - Inferência Estatística
 - Análise de Regressão
+- Processos Estocásticos
 - [Estatística Computacional][pwec]
 
 ## [Pesquisa](#top) <a id="sec-4"></a>
@@ -53,4 +53,4 @@ Eu sou Professor do Departamento de Estatística da Universidade Federal do Esp�
 15. [L] M. Campos. Introdução à Probabilidade e Estatística. Vitória: Universidade Federal do Espírito Santo, Núcleo de Educação Aberta e a Distância, 2009, v. 1., 117 p.
 
 [pwir]: http://www.maurocampos.com/cursos/intror/intror.html "Introdução ao R"
-[pwec]: http://www.maurocampos.com/cursos/estcomp/index.html "Est. Computacional"
+[pwec]: http://www.maurocampos.com/cursos/estcomp/estcomp.html "Est. Computacional"
