@@ -1,5 +1,5 @@
 <p align="justify">
-Bem vindo a minha página no GitHub <a id="top"></a>
+Seja bem vindo <a id="top"></a>
 </p>
 
 # Conteúdo
