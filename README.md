@@ -4,21 +4,20 @@ Bem vindo a minha página web no GitHub <a id="top"></a>
 
 # Conteúdo
   * [Sobre mim](#sec-1)
-  * [Contato](#sec-2)
-  * [Ensino](#sec-3)
-  * [Pesquisa](#sec-4)
+  * [Ensino](#sec-2)
+  * [Pesquisa](#sec-3)
   
 ## [Sobre mim](#top) <a id="sec-1"></a>
 
 <p align="justify">
-Sou Bacharel e Mestre em Física pela Universidade Federal do Espírito Santo (UFES, Vitória ES) e Doutor em Ciência da Computação também pela UFES. Tenho experiência na área de inteligência computacional com ênfase em análise de dados e computação natural.
+Bacharel e Mestre em Física pela Universidade Federal do Espírito Santo (UFES, Vitória ES) e Doutor em Ciência da Computação também pela UFES. Tenho experiência na área de inteligência computacional com ênfase em análise de dados e computação natural.
 </p>
 
-## [Ensino](#top) <a id="sec-3"></a>
+## [Ensino](#top) <a id="sec-2"></a>
 
 - [Estatística Computacional][pwec]
 
-## [Pesquisa](#top) <a id="sec-4"></a>
+## [Pesquisa](#top) <a id="sec-3"></a>
 
 - [CV Lattes][pwcvl]
 - [Google Scholar][pwga]
