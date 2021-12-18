@@ -24,7 +24,7 @@ Bacharel e Mestre em Física pela Universidade Federal do Espírito Santo (UFES,
 - [CV Lattes][pwcvl]
 - [Google Scholar][pwga]
 
-[mpw]: https://maurocmcampos.github.io/ "Minha página" 
+[mpw]: https://maurocmcampos.github.io/index.html "Minha página" 
 [pwec]: https://maurocmcampos.github.io/cursos/ec.html "Estatística Computacional"
 [pwcvl]: http://lattes.cnpq.br/1971112928086342 "CV Lattes"
 [pwga]: https://scholar.google.com.br/citations?hl=pt-BR&user=z3P8qtIAAAAJ "Google Acadêmico"
