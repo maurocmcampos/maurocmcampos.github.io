@@ -10,7 +10,7 @@ Seja bem vindo <a id="top"></a>
 ## [Sobre mim](#top) <a id="sec-1"></a>
 
 <p align="justify">
-Bacharel e Mestre em Física pela Universidade Federal do Espírito Santo (UFES, Vitória ES) e Doutor em Ciência da Computação também pela UFES. Tenho experiência na área de inteligência computacional com ênfase em análise de dados e computação natural.
+Bacharel e Mestre em Física pela Universidade Federal do Espírito Santo (UFES, Vitória ES) e Doutor em Ciência da Computação também pela UFES. Tem experiência na área de inteligência computacional com ênfase em análise de dados e computação natural.
 
 - [Minha página][mpw]
 </p>
